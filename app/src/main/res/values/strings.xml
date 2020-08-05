@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMoneyTask</string>
+    <string name="text_id">id : %1$s</string>
+    <string name="text_title">title : %1$s</string>
+</resources>
